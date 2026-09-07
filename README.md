@@ -1,6 +1,6 @@
 # Francisco J. Peregrina P.
 
-### AI Systems Architect | Applied AI Developer
+### AI Systems | Applied AI Developer
 
 I build **AI-first products and automation systems** — from architecture and APIs to AI workflows, data and deployment.
 
