@@ -31,7 +31,7 @@ Specialized AI agents for architecture, coding, testing, security and deployment
 
 `LLMs` · `RAG` · `Embeddings` · `Computer Vision` · `n8n`
 
-`PHP` · `JavaScript / TypeScript` · `C#` · `Linux` · `Cloudflare`
+`PHP` · `JavaScript / TypeScript` · `C#` · `Linux` · `Cloudflare`· `Terraform`
 
 ## Beyond the model
 
