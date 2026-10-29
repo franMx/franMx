@@ -8,6 +8,7 @@ My current focus is on **AI agents, RAG, applied ML and SaaS products** connecte
 
 ## Currently building
 
+* **ML Model - shelves depletion** — Model training (Yolo 26), segmentation, business insights and reccommender
 * **AI Agents** — tool use, workflows, guardrails and human-in-the-loop systems
 * **Production RAG** — retrieval, embeddings, evaluation and citations
 * **Applied ML** — forecasting, computer vision and similarity search
