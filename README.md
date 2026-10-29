@@ -8,6 +8,7 @@ My current focus is on **AI agents, RAG, applied ML and SaaS products** connecte
 
 ## Currently building
 
+* **On-Device LLM Fine-Tuning** — LoRA deployment on mobile edge, cloud-based RAG integration
 * **ML Model - shelves depletion** — Model training (Yolo 26), segmentation, business insights and reccommender
 * **AI Agents** — tool use, workflows, guardrails and human-in-the-loop systems
 * **Production RAG** — retrieval, embeddings, evaluation and citations
