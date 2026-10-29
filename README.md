@@ -7,13 +7,12 @@ I build **AI-first products and automation systems** — from architecture and A
 My current focus is on **AI agents, RAG, applied ML and SaaS products** connected to real business operations.
 
 ## Currently building
-
-* **On-Device LLM Fine-Tuning** — LoRA deployment on mobile edge, cloud-based RAG integration
-* **ML Model - shelves depletion** — Model training (Yolo 26), segmentation, business insights and reccommender
-* **AI Agents** — tool use, workflows, guardrails and human-in-the-loop systems
-* **Production RAG** — retrieval, embeddings, evaluation and citations
-* **Applied ML** — forecasting, computer vision and similarity search
-* **AI SaaS** — multi-tenant products, APIs, databases and infrastructure
+- **On-Device LLM Fine-Tuning** — LoRA adapters on mobile edge, backed by cloud-based RAG integration
+- **Shelves Depletion ML Model** — Model training (YOLO), instance segmentation, business insights, and recommendation engines
+- **AI Agents** — Tool use, complex workflows, programmatic guardrails, and human-in-the-loop systems
+- **Production RAG** — Advanced retrieval, vector embeddings, rigorous evaluation, and source citations
+- **Applied ML** — Time-series forecasting, computer vision, and multimodal similarity search
+- **AI SaaS** — Multi-tenant architecture, robust APIs, database design, and cloud infrastructure
 
 ## Selected projects
 
